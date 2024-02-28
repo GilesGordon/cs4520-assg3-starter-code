@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">assignment3</string>
+    <string name="MVP">MVP</string>
+    <string name="MVVM">MVVM</string>
+    <string name="ADD">ADD</string>
+    <string name="SUBTRACT">SUBTRACT</string>
+    <string name="MULTIPLY">MULTIPLY</string>
+    <string name="DIVIDE">DIVIDE</string>
 </resources>
